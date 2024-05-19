@@ -2,8 +2,10 @@
 
 Este proyecto fue desarrollado como un paso de un Plan de Contingencia Empresarial (Business Continuity Plan - BCP) Para Servidores de Escritorio Remoto (Remote Desktop Server - RDP). El objetivo principal del BCP es clonar en el menor tiempo posible la estructura necesaria de un Servidor afectado en otro equipo, con la finalidad de que el trabajo se vea interrumpido el menor tiempo posible. Este paso, consiste en la restauración de los usuarios originales.
 
+
 ## Descripción.
 Este script automatiza la creación de usuarios y grupos locales en un entorno limpio a partir de archivos .CSV facilitando la recuperación del servicio en situaciones críticas.
+
 
 ## Configuración y Uso.
 1. Los tres archivos deben estar en el mismo directorio antes de ejecutar el script de powershell.
